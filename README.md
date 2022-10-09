@@ -1,4 +1,4 @@
-###advice-slip-json-api-fetch-display
+### Advice Slip Json API Fetch & Display
 
 live link: https://advice-slip-json-api-fetch-display.netlify.app/
 
